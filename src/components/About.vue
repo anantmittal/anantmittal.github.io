@@ -18,8 +18,8 @@
 			classroom environments.
 		</p>
 		<p>
-			I also spent some time building data science pipelines to generate
-			interactive lessons for improving neuron tracing behavior of
+			Previously, I spent some time building data science pipelines to
+			generate interactive lessons that improve neuron tracing behavior of
 			<a href="https://www.mozak.science/landing" target="_blank"
 				>Mozak</a
 			>
