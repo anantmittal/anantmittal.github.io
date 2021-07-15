@@ -4,6 +4,7 @@
 			<b-row>
 				<b-col lg="4" class="text-center">
 					<b-card
+						border-variant="light"
 						title="Anant Mittal"
 						sub-title="Ph.D. Student"
 						:img-src="require('@/assets/Anant.jpeg')"
@@ -32,6 +33,7 @@
 							<a
 								href="https://github.com/anantmittal"
 								class="card-link"
+								target="_blank"
 							>
 								<b-icon icon="github" style="color: #7952b3;">
 								</b-icon
@@ -39,33 +41,27 @@
 							<a
 								href="https://www.linkedin.com/in/anantmittal/"
 								class="card-link"
+								target="_blank"
 							>
 								<b-icon icon="linkedin" style="color: #7952b3;">
 								</b-icon
 							></a>
+							<a
+								href="https://homes.cs.washington.edu/~anmittal/CV.pdf"
+								class="card-link"
+								target="_blank"
+							>
+								<span
+									class="text-uppercase"
+									style="color: #7952b3;"
+									>CV</span
+								>
+							</a>
 						</b-card-body>
 					</b-card>
 				</b-col>
 				<b-col lg="8" class="text-justify">
-					<p>
-						I am a CS PhD student at the University of Washington,
-						currently affiliated with the Center for Game Science
-						and closely collaborating with education researchers at
-						Enlearn. My research is at the intersection of
-						human-computer interaction, cognitive psychology,
-						learning sciences, and applied artificial intelligence.
-						Using concepts from these fields, I try to build
-						personalized math learning systems for classroom
-						environments. In the past, I have had some experience
-						working in healthcare as an intern at IKP Centre for
-						Technologies in Public Health (ICTPH) and consultant for
-						the Swasth Foundation in India. Both these organizations
-						build sustainable primary healthcare clinics in rural
-						India. During my time there, I built interactive systems
-						that help administrators and patients make better sense
-						of healthcare data. Please find attached my resume for
-						further reference.
-					</p>
+					<About />
 				</b-col>
 			</b-row>
 		</b-container>
@@ -73,6 +69,7 @@
 </template>
 
 <script>
+	import About from "@/components/About.vue";
 	export default {
 		name: "Landing",
 		props: {
@@ -81,9 +78,14 @@
 		data() {
 			return {};
 		},
-		components: {},
+		components: { About },
 		mounted: function() {},
 		created() {},
 		methods: {},
 	};
 </script>
+<style scoped>
+	.card-img-top {
+		border-radius: 50%;
+	}
+</style>
