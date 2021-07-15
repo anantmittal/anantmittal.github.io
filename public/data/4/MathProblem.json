@@ -1,0 +1,91 @@
+{
+	"statement": "Solve for x:",
+	"firstStep": "\\frac{x}{4} - 3 = -6",
+	"lastStep": "x=-12",
+	"steps": [
+		{
+			"id": 1,
+			"num": "Step:\\#1",
+			"eqn": "\\frac{x}{4} - 3 = -6",
+			"value": [],
+			"options": [
+				{
+					"code": "MoveConstantTerm"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "MoveNegativeSignAdding"
+				},
+				{
+					"code": "MultiplyBothSidesReduceFractions"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 2,
+			"num": "Step:\\#2",
+			"eqn": "\\frac{x}{4} - 3 + 3 = -6​ + 3",
+			"value": [],
+			"options": [
+				{
+					"code": "MoveConstantTerm"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "MoveNegativeSignAdding"
+				},
+				{
+					"code": "MultiplyBothSidesReduceFractions"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 3,
+			"num": "Step:\\#3",
+			"eqn": "\\frac{x}{4} = -6 + 3",
+			"value": [],
+			"options": [
+				{
+					"code": "MoveConstantTerm"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "MoveNegativeSignAdding"
+				},
+				{
+					"code": "MultiplyBothSidesReduceFractions"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 4,
+			"num": "Step:\\#4",
+			"eqn": "x = 4.-3",
+			"value": [],
+			"options": [
+				{
+					"code": "MoveConstantTerm"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "MoveNegativeSignAdding"
+				},
+				{
+					"code": "MultiplyBothSidesReduceFractions"
+				}
+			],
+			"placeholder": "Concept between steps"
+		}
+	]
+}

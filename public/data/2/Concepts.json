@@ -1,0 +1,120 @@
+[
+	{
+		"id": 1,
+		"header": "Subtract instead of multiply",
+		"title": "SubtractInsteadMultiply",
+		"description": "Amy could have mistakenly treated multiplication as a subtraction when two terms are next to each other and one is in parentheses. This is when the term or constant inside the parentheses is negative.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "2(-3)"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "2\\enclose{circle}[mathcolor=\"red\"]{-}3"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"header": "Combine unlike terms",
+		"title": "CombineUnlikeTerms",
+		"description": "Amy could have mistakenly combined terms with different variables.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{ "id": 1, "eqn": "2 + 3x" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{5x}"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{ "id": 1, "eqn": "5 - 2x" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{3}"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"header": "Forget to distribute negative sign",
+		"title": "ForgetDistributeNegativeSign",
+		"description": "Amy distributes the negative sign correctly to the first parenthetical term because it is close, but could have forgotten the negative sign with the far away parenthetical terms. Often distribution is correct except for the sign.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "-3(x+2)"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "-3.x \\enclose{circle}[mathcolor=\"red\"]{+} 3.2"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "-2(-x-2)"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "2.x \\enclose{circle}[mathcolor=\"red\"]{-} 2.2"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"header": "Move Variable to Left Side",
+		"title": "MoveVariableLeftSide",
+		"description": "Amy sometimes moves variable terms from the right side of an equation to the left. In the future steps, she can then combine them to simplify the equation.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{ "id": 1, "eqn": "2x = x + 3" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "2x \\enclose{circle}[mathcolor=\"green\"]{-x} = x + 3 \\enclose{circle}[mathcolor=\"green\"]{-x}"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{ "id": 1, "eqn": "-5x=-6x + 2" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "-5x  \\enclose{circle}[mathcolor=\"green\"]{+6x}=-6x + 2 \\enclose{circle}[mathcolor=\"green\"]{+6x}"
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"header": "Combine like variables",
+		"title": "CombineLikeVariables",
+		"description": "Amy understands well that if two terms have the same variables, she can add or subtract their coefficients to get a single term.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{ "id": 1, "eqn": "3xy + 4xy + 5" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"green\"]{7xy} + 5"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{ "id": 1, "eqn": "8x - 2x - 3" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"green\"]{6x} - 3"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"header": "Wrong order, multiplied",
+		"title": "MultiplyTermsWhenAnotherOperationHasPrecedent",
+		"description": "Amy often does math left to right, ignoring the order of operations. Amy could have mistakenly applied multiplication in a step where multiplication was of lower priority.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{ "id": 1, "eqn": "2. 3^4" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{6}^4"
+					}
+				]
+			}
+		]
+	}
+]

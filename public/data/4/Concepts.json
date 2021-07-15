@@ -1,0 +1,118 @@
+[
+	{
+		"id": 1,
+		"header": "Move constant term",
+		"title": "MoveConstantTerm",
+		"description": "Amy likes to move constant terms from one side of an equation to the other. She in the future steps then can combine them to simplify the equation.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "x -2 = 1"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "x - 2 \\enclose{circle}[mathcolor=\"green\"]{+2} = 1 \\enclose{circle}[mathcolor=\"green\"]{+2}"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"header": "Cancel opposite terms on opposite sides",
+		"title": "CancelOppTermsOppSides",
+		"description": "Amy could have mistakenly canceled opposite terms even when they were not on the same side.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{3x} - 2= 3  \\enclose{circle}[mathcolor=\"red\"]{-3x}"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "-2 = 3"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "4x + \\enclose{circle}[mathcolor=\"red\"]{2} = \\enclose{circle}[mathcolor=\"red\"]{-2}+ 7x + 5"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "4x = 7x + 5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"header": "Move negative sign when adding",
+		"title": "MoveNegativeSignAdding",
+		"description": "While adding one positive and one negative number, Amy could have correctly used the subtraction method but mistakenly ignored the fact that the negative number is larger.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "-5 + 2"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{3}"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "7-9"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{2}"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"header": "Multiply both sides to reduce fractions",
+		"title": "MultiplyBothSidesReduceFractions",
+		"description": "To find the value of x on its own, as opposed to some fraction of x, Amy multiplies an integer to both sides of the equation when the coefficient of x is a fraction.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "\\frac{x}{2} = 2"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\frac{\\enclose{circle}[mathcolor=\"green\"]{2}.x}{2} = \\enclose{circle}[mathcolor=\"green\"]{2}.2"
+					}
+				]
+			}
+		]
+	}
+]

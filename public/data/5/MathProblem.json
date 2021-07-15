@@ -1,0 +1,112 @@
+{
+	"statement": "Solve for x:",
+	"firstStep": "−6+x+−x​=−5+x+x",
+	"lastStep": "x=\\frac{-1}{2}",
+	"steps": [
+		{
+			"id": 1,
+			"num": "Step:\\#1",
+			"eqn": "−6+x+−x​=−5+x+x",
+			"value": [],
+			"options": [
+				{
+					"code": "CancelIdentialTerms"
+				},
+				{
+					"code": "CombineUnlikeTerms"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "ReduceFraction"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 2,
+			"num": "Step:\\#2",
+			"eqn": "−6=−5+x+x",
+			"value": [],
+			"options": [
+				{
+					"code": "CancelIdentialTerms"
+				},
+				{
+					"code": "CombineUnlikeTerms"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "ReduceFraction"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 3,
+			"num": "Step:\\#3",
+			"eqn": "−6=−5+2x",
+			"value": [],
+			"options": [
+				{
+					"code": "CancelIdentialTerms"
+				},
+				{
+					"code": "CombineUnlikeTerms"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "ReduceFraction"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 4,
+			"num": "Step:\\#4",
+			"eqn": "−6+5=−5+2x+5",
+			"value": [],
+			"options": [
+				{
+					"code": "CancelIdentialTerms"
+				},
+				{
+					"code": "CombineUnlikeTerms"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "ReduceFraction"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 5,
+			"num": "Step:\\#5",
+			"eqn": "−1=2x",
+			"value": [],
+			"options": [
+				{
+					"code": "CancelIdentialTerms"
+				},
+				{
+					"code": "CombineUnlikeTerms"
+				},
+				{
+					"code": "CancelOppTermsOppSides"
+				},
+				{
+					"code": "ReduceFraction"
+				}
+			],
+			"placeholder": "Concept between steps"
+		}
+	]
+}

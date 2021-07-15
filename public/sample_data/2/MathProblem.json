@@ -1,0 +1,53 @@
+{
+	"statement": "Solve for x:",
+	"firstStep": "3x-2x=7+8\\times2^3",
+	"lastStep": "x=71",
+	"solutionExplanation": "Between Step: #1 and #2, Amy could have made 'MultiplyTermsWhenAnotherOperationHasPrecedent' mistake and computed multiplication before calculating '2' the power of '3'. She could have also used 'CombineLikeVariables' to combine '3x-2x'. For the next selection option, Amy used 'CombineLikeVariables' to compute '3x-2x' while none of the card operations were possible for the last selection option.",
+	"steps": [
+		{
+			"id": 1,
+			"num": "Step:\\#1",
+			"eqn": "3x-2x=7+8\\times2^3",
+			"value": [],
+			"options": [
+				{
+					"code": "CombineLikeVariables"
+				},
+				{
+					"code": "MultiplyTermsWhenAnotherOperationHasPrecedent"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 2,
+			"num": "Step:\\#2",
+			"eqn": "3x-2x=7+8.8",
+			"value": [],
+			"options": [
+				{
+					"code": "CombineLikeVariables"
+				},
+				{
+					"code": "MultiplyTermsWhenAnotherOperationHasPrecedent"
+				}
+			],
+			"placeholder": "Concept between steps"
+		},
+		{
+			"id": 3,
+			"num": "Step:\\#3",
+			"eqn": "x=7+64",
+			"value": [],
+			"options": [
+				{
+					"code": "CombineLikeVariables"
+				},
+				{
+					"code": "MultiplyTermsWhenAnotherOperationHasPrecedent"
+				}
+			],
+			"placeholder": "Concept between steps"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+[
+	{
+		"id": 1,
+		"header": "Cancel identical terms",
+		"title": "CancelIdentialTerms",
+		"description": "Amy could have mistakenly canceled the same terms on the same side.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "\\enclose{circle}[mathcolor=\"purple\"]{3} + x + \\enclose{circle}[mathcolor=\"purple\"]{3} =  4"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "x = 4"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "4x = \\enclose{circle}[mathcolor=\"purple\"]{3x} - 5 + \\enclose{circle}[mathcolor=\"purple\"]{3x} "
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "4x = -5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"header": "Combine unlike terms",
+		"title": "CombineUnlikeTerms",
+		"description": "Amy could have mistakenly combined terms with different variables.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{ "id": 1, "eqn": "2 + 3x" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{5x}"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{ "id": 1, "eqn": "5 - 2x" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{3}"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"header": "Cancel opposite terms on opposite sides",
+		"title": "CancelOppTermsOppSides",
+		"description": "Amy could have mistakenly canceled opposite terms even when they were not on the same side.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "\\enclose{circle}[mathcolor=\"red\"]{3x} - 2= 3  \\enclose{circle}[mathcolor=\"red\"]{-3x}"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "-2 = 3"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{
+						"id": 1,
+						"eqn": "4x + \\enclose{circle}[mathcolor=\"red\"]{2} = \\enclose{circle}[mathcolor=\"red\"]{-2}+ 7x + 5"
+					},
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "4x = 7x + 5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"header": "Reduce a fraction",
+		"title": "ReduceFraction",
+		"description": "Amy cancels the terms that are shared between the numerator and denominator.",
+		"examples": [
+			{
+				"id": 1,
+				"eqns": [
+					{ "id": 1, "eqn": "\\frac{2x}{3x}" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "{\\frac{\\enclose{circle}[mathcolor=\"green\"]{2}}{\\enclose{circle}[mathcolor=\"green\"]{3}}}"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"eqns": [
+					{ "id": 1, "eqn": "\\frac{18x}{2}" },
+					{ "id": 2, "eqn": "\\Downarrow" },
+					{
+						"id": 3,
+						"eqn": "\\enclose{circle}[mathcolor=\"green\"]{9x}"
+					}
+				]
+			}
+		]
+	}
+]
