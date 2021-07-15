@@ -32,7 +32,15 @@
 		</p>
 		<p>
 			Previously, I spent some time building data science pipelines to
-			generate interactive lessons that improve neuron tracing behavior of
+			generate interactive lessons that
+			<strong>
+				<a
+					href="https://homes.cs.washington.edu/~anmittal/Mozak+Lessons.pdf"
+					target="_blank"
+					>improve neuron tracing</a
+				>
+			</strong>
+			behavior of
 			<strong
 				><a href="https://www.mozak.science/landing" target="_blank"
 					>Mozak</a
