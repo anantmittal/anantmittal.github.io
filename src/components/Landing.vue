@@ -60,7 +60,7 @@
 						</b-card-body>
 					</b-card>
 				</b-col>
-				<b-col lg="8" class="text-justify">
+				<b-col lg="8">
 					<About />
 				</b-col>
 			</b-row>

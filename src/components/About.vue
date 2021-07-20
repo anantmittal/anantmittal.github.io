@@ -28,11 +28,8 @@
 					>math learning</a
 				>
 			</strong>
-			systems for classroom environments.
-		</p>
-		<p>
-			Previously, I spent some time building data science pipelines to
-			generate interactive lessons that
+			systems for classroom environments. I also built
+			data science pipelines to generate interactive lessons that
 			<strong>
 				<a
 					href="https://homes.cs.washington.edu/~anmittal/Mozak+Lessons.pdf"
@@ -47,6 +44,26 @@
 				></strong
 			>
 			players.
+		</p>
+		<p>
+			Previously, as a graduate student at the University of Michigan I worked with
+			Prof. Christopher Brooks at the
+			<strong>
+				<a href="https://edtech.labs.si.umich.edu/" target="_blank">
+					Educational Technology Collective lab.
+				</a>
+			</strong>
+			I built the first extensions for Project Jupyter to capture learning behavior of data science students on Coursera. Additionally, I engineered an entire infrastructure around Jupyter notebooks to crowdsource data science questions and datasets.
+		<p>
+			I have been fortunate to be affiliated with the following
+			organizations in my career:
+			<ul>
+				<li>AdmitHub, now <a href="https://www.mainstay.com/" target="_blank">Mainstay</a></li>
+				<li><a href="https://aamaadmiparty.org/" target="_blank">Aam Aadmi Party, Delhi</a></li>
+				<li><a>Adobe Systems</a></li>
+				<li><a href="https://www.swasth.org/" target="_blank">Swasth Foundation</a></li>
+				<li><a href="http://ictph.org.in/" target="_blank">IKP Centre for Technologies in Public Health</a></li>
+			</ul>
 		</p>
 	</div>
 </template>
