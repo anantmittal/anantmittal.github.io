@@ -6,10 +6,12 @@
 					<h3>Reading</h3>
 					<ul>
 						<li>
+							Jugalbandi: The BJP Before Modi - Vinay Sitapati
+						</li>
+						<li>
 							The Feynman Lectures on Physics - Richard Feynman,
 							Robert B. Leighton, Matthew Sands
 						</li>
-						<li>Are You My Mother? - Alison Bechdel</li>
 						<li>
 							The Essential Dykes to Watch Out For - Alison
 							Bechdel
@@ -18,6 +20,7 @@
 					</ul>
 					<h3>2021</h3>
 					<ul>
+						<li>Are You My Mother? - Alison Bechdel</li>
 						<li>
 							Lost in Thought: The Hidden Pleasures of an
 							Intellectual Life - Zena Hitz
