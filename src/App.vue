@@ -12,7 +12,7 @@
 
 			<b-collapse id="nav-collapse" is-nav>
 				<b-navbar-nav>
-					<b-nav-item href="#/reading">Reading</b-nav-item>
+					<!--b-nav-item href="#/reading">Reading</!--b-nav-item-->
 					<!--b-nav-item href="#">Quotes</!--b-nav-item-->
 				</b-navbar-nav>
 			</b-collapse>

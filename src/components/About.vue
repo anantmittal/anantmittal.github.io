@@ -25,7 +25,7 @@
 				<a
 					href="https://homes.cs.washington.edu/~anmittal/EF+Math.pdf"
 					target="_blank"
-					>math learning</a
+					>math learning (WIP document)</a
 				>
 			</strong>
 			systems for classroom environments. I also built
@@ -46,7 +46,7 @@
 			players.
 		</p>
 		<p>
-			Previously, as a graduate student at the University of Michigan I worked with
+			Previously, as a graduate student at the University of Michigan, School of Information (UMSI) I worked with
 			Prof. Christopher Brooks at the
 			<strong>
 				<a href="https://edtech.labs.si.umich.edu/" target="_blank">
@@ -55,8 +55,7 @@
 			</strong>
 			I built the first extensions for Project Jupyter to capture learning behavior of data science students on Coursera. Additionally, I engineered an entire infrastructure around Jupyter notebooks to crowdsource data science questions and datasets.
 		<p>
-			I have been fortunate to be affiliated with the following
-			organizations in my career:
+			Before UMSI, I was fortunate to work in education, health, governance, and public policy through affiliations with the following organizations:
 			<ul>
 				<li>AdmitHub, now <a href="https://www.mainstay.com/" target="_blank">Mainstay</a></li>
 				<li><a href="https://aamaadmiparty.org/" target="_blank">Aam Aadmi Party, Delhi</a></li>
