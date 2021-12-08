@@ -1,26 +1,18 @@
 <template>
 	<div>
 		<p>
-			I am a Ph.D. student at the Paul G. Allen School of Computer Science
-			& Engineering, University of Washington, currently affiliated with
-			the
+			I am a 3rd-year Ph.D. student at the Paul G. Allen School of <a href="https://www.cs.washington.edu/" target="_blank">Computer Science
+			& Engineering</a>, University of Washington, advised by <a href="https://homes.cs.washington.edu/~jfogarty/" target="_blank">Prof. James Fogarty</a>. My research interests are in HCI and applied data science for healthcare. <strong>I want to build systems</strong> that help people manage chronic conditions in clinical and personal care settings.
+		</p>
+		<p> Previously at UW, I was advised by Prof. Zoran Popović as part of the
 			<strong>
 				<a href="http://centerforgamescience.org/" target="_blank"
 					>Center for Game Science</a
 				>
 			</strong>
-			and closely collaborating with education researchers at
-			<strong>
-				<a href="https://www.enlearn.org/" target="_blank"
-					>Enlearn
-				</a> </strong
-			>.
-		</p>
-		<p>
-			At UW, my research has been at the intersection of human-computer
-			interaction, cognitive psychology, learning sciences, and applied
-			artificial intelligence. Using concepts from these fields, I try to
-			build personalized and interactive
+			and	<strong>
+				<a href="https://www.enlearn.org/" target="_blank">Enlearn</a>
+			</strong>. I designed and developed personalized interactive
 			<strong>
 				<a
 					href="https://homes.cs.washington.edu/~anmittal/EF+Math.pdf"
@@ -45,17 +37,19 @@
 			>
 			players.
 		</p>
+		
 		<p>
-			Previously, as a graduate student at the University of Michigan, School of Information (UMSI) I worked with
+			As a graduate student at the University of Michigan, School of Information I worked with
 			Prof. Christopher Brooks at the
 			<strong>
 				<a href="https://edtech.labs.si.umich.edu/" target="_blank">
 					Educational Technology Collective lab.
 				</a>
 			</strong>
-			I built the first extensions for Project Jupyter to capture learning behavior of data science students on Coursera. Additionally, I engineered an entire infrastructure around Jupyter notebooks to crowdsource data science questions and datasets.
+			I built the first extensions for Project Jupyter to capture learning behavior of data science students on Coursera. I engineered an entire infrastructure around Jupyter notebooks to crowdsource data science questions and datasets.
+		</p>
 		<p>
-			Before UMSI, I was fortunate to work in education, health, governance, and public policy through affiliations with the following organizations:
+			I have been fortunate to work in education, health, governance, and public policy through affiliations with the following organizations:
 			<ul>
 				<li>AdmitHub, now <a href="https://www.mainstay.com/" target="_blank">Mainstay</a></li>
 				<li><a href="https://aamaadmiparty.org/" target="_blank">Aam Aadmi Party, Delhi</a></li>
