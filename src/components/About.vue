@@ -37,7 +37,6 @@
 			>
 			players.
 		</p>
-		
 		<p>
 			As a graduate student at the University of Michigan, School of Information I worked with
 			Prof. Christopher Brooks at the
