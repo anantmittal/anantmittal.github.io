@@ -1,8 +1,16 @@
 <template>
 	<div>
 		<p>
-			I am a 3rd-year Ph.D. student at the Paul G. Allen School of <a href="https://www.cs.washington.edu/" target="_blank">Computer Science
-			& Engineering</a>, University of Washington, advised by <a href="https://homes.cs.washington.edu/~jfogarty/" target="_blank">Prof. James Fogarty</a>. My research interests are in HCI and applied data science for healthcare. <strong>I want to build systems</strong> that help people manage chronic conditions in clinical and personal care settings.
+			I am a 4th-year Ph.D. student at the Paul G. Allen School of <a href="https://www.cs.washington.edu/" target="_blank">Computer Science
+			& Engineering</a>, University of Washington (UW), advised by <a href="https://homes.cs.washington.edu/~jfogarty/" target="_blank">Prof. James Fogarty</a>. My research interests are in building interactive systems and evaluating them through mixed-methods. I've built systems for accessibility, health, and education.
+		</p>
+		<p>
+			<strong>Active Projects:</strong>
+			<ul>
+				<li><a href="https://sites.uw.edu/scopestudy/">Project SCOPE</a> - where we built a collaborative care system for people with cancer to manage their treatment and depression. <br/>Advisors: James Fogarty and Gary Hsieh, University of Washington</li>
+				<li>Accessible Video Conferencing Platform for Deaf and Hard-of-Hearing Community <br/>Advisors: Mohit Jain and Pratyush Kumar, Microsoft Research India</li>
+				<li>Understanding Mobile App Needs for Patients with Fibromyalgia<br/>Advisors: Annie T. Chen (UW) and Yan Zhang (University of Texas Austin)</li>
+			</ul>
 		</p>
 		<p> Previously at UW, I was advised by Prof. Zoran Popović as part of the
 			<strong>
@@ -17,7 +25,7 @@
 				<a
 					href="https://homes.cs.washington.edu/~anmittal/EF+Math.pdf"
 					target="_blank"
-					>math learning (WIP document)</a
+					>math learning</a
 				>
 			</strong>
 			systems for classroom environments. I also built
