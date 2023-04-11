@@ -1,16 +1,19 @@
 <template>
 	<div>
 		<p>
-			I am a 4th-year Ph.D. student at the Paul G. Allen School of <a href="https://www.cs.washington.edu/" target="_blank">Computer Science
+			I am a Ph.D. student at the Paul G. Allen School of <a href="https://www.cs.washington.edu/" target="_blank">Computer Science
 			& Engineering</a>, University of Washington (UW), advised by <a href="https://homes.cs.washington.edu/~jfogarty/" target="_blank">Prof. James Fogarty</a>. My research interests are in building interactive systems and evaluating them through mixed-methods. I've built systems for accessibility, health, and education.
 		</p>
 		<p>
-			<strong>Active Projects:</strong>
+			<strong>Projects:</strong>
 			<ul>
-				<li><a href="https://sites.uw.edu/scopestudy/">Project SCOPE</a> - where we built a collaborative care system for people with cancer to manage their treatment and depression. <br/>Advisors: James Fogarty and Gary Hsieh, University of Washington</li>
+				<li><a href="https://sites.uw.edu/scopestudy/">Project SCOPE</a> - where we built a collaborative care system for people with cancer to manage their treatment and depression. <br/>Advisors: James Fogarty and Gary Hsieh, University of Washington <br/><strong>UW SCOPE: Examining Technology-Enhanced
+Collaborative Care Management of Depression in the Cancer Setting, CHI 2023 Workshop on Bridging HCI and
+Implementation Science <a href="https://homes.cs.washington.edu/~anmittal/UWSCOPE_CHI_2023_Workshop.pdf">[pdf]</a></strong></li>
 				<li>Accessible Video Conferencing Platform for Deaf and Hard-of-Hearing Community <br/>Advisors: Mohit Jain and Pratyush Kumar, Microsoft Research India</li>
 				<li>Understanding Mobile App Needs for Patients with Fibromyalgia<br/>Advisors: Annie T. Chen (UW) and Yan Zhang (University of Texas Austin)</li>
 			</ul>
+			
 		</p>
 		<p> Previously at UW, I was advised by Prof. Zoran Popović as part of the
 			<strong>
