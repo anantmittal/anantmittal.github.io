@@ -11,7 +11,7 @@
             evaluating them through mixed-methods. I've built systems for
             accessibility, health, and education.
         </p>
-        <strong>Current Projects:</strong>
+        <strong>Current and Recent Projects:</strong>
 
         <ul>
             <li>
@@ -20,13 +20,19 @@
                 >
                 A collaborative care system for people with cancer to manage
                 their treatment and depression. <br />Advisors: James Fogarty
-                and Gary Hsieh, University of Washington
+                and Gary Hsieh
             </li>
 
             <li>
                 PlayBridge: Examining Runtime Enhancement of Android Educational
                 Games to Improve Accessibility for Children with Upper Body
                 Motor Impairments. <br />Advisors: James Fogarty
+            </li>
+
+            <li>
+                Jod: Examining Design and Implementation of a Videoconferencing
+                Platform for Mixed Hearing Groups <br />Advisors: James Fogarty,
+                Mohit Jain, and Pratyush Kumar
             </li>
 
             <!-- <li>
