@@ -1,6 +1,6 @@
 <template>
     <div>
-        <b-container class="bv-example-row ">
+        <b-container class="bv-example-row">
             <b-row class="mb-2">
                 <b-col>
                     <b-card
@@ -16,17 +16,18 @@
                         </b-card-text>
                         <b-button
                             v-b-toggle.collapse-assets-23
-                            style="background-color: #7952b3;"
+                            style="background-color: #7952b3"
                             class="card-link"
                         >
                             Abstract
                         </b-button>
                         <b-button
-                            style="background-color: #7952b3;"
+                            style="background-color: #7952b3"
                             class="card-link"
-                            v-b-popover.hover.top="'PDF Coming Soon!'"
+                            href="https://dl.acm.org/doi/abs/10.1145/3597638.3608382"
+                            target="_blank"
                         >
-                            PDF
+                            ACM
                             <b-icon icon="file-pdf-fill"> </b-icon>
                         </b-button>
 
@@ -79,13 +80,13 @@
                         </b-card-text>
                         <b-button
                             v-b-toggle.collapse-chi-23-workshop
-                            style="background-color: #7952b3;"
+                            style="background-color: #7952b3"
                             class="card-link"
                         >
                             Abstract
                         </b-button>
                         <b-button
-                            style="background-color: #7952b3;"
+                            style="background-color: #7952b3"
                             class="card-link"
                             href="https://homes.cs.washington.edu/~anmittal/UWSCOPE_CHI_2023_Workshop.pdf"
                             target="_blank"
@@ -131,13 +132,13 @@
                         </b-card-text>
                         <b-button
                             v-b-toggle.collapse-cscw-19
-                            style="background-color: #7952b3;"
+                            style="background-color: #7952b3"
                             class="card-link"
                         >
                             Abstract
                         </b-button>
                         <b-button
-                            style="background-color: #7952b3;"
+                            style="background-color: #7952b3"
                             class="card-link"
                             href="https://dl.acm.org/doi/10.1145/3359141"
                             target="_blank"
@@ -199,7 +200,7 @@
             return {};
         },
         components: {},
-        mounted: function() {},
+        mounted: function () {},
         created() {},
         methods: {},
     };

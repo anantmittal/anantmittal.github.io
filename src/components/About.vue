@@ -7,9 +7,10 @@
             >, University of Washington (UW), advised by
             <a href="https://homes.cs.washington.edu/~jfogarty/" target="_blank"
                 >Prof. James Fogarty</a
-            >. My research interests are in building interactive systems and
-            evaluating them through mixed-methods. I've built systems for
-            accessibility, health, and education.
+            >. My research interests are designing and building interactive
+            systems for real-world HCI impact and evaluating them through mixed
+            methods. I have built systems for communication and collaboration in
+            settings where multiple stakeholders have different roles.
         </p>
         <strong>Current and Recent Projects:</strong>
 
