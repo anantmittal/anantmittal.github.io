@@ -189,19 +189,70 @@
                     </b-card>
                 </b-col>
             </b-row>
+            <b-row class="mb-2">
+                <b-col>
+                    <b-card
+                        title="Augmenting Authentic Data Science Environments for Learning Analytics"
+                        sub-title="LAK '19"
+                    >
+                        <b-card-text>
+                            <strong>Anant Mittal</strong>, Christopher Brooks
+                        </b-card-text>
+                        <b-button
+                            v-b-toggle.collapse-lak-19
+                            style="background-color: #7952b3"
+                            class="card-link"
+                        >
+                            Abstract
+                        </b-button>
+                        <b-button
+                            style="background-color: #7952b3"
+                            class="card-link"
+                            href="https://homes.cs.washington.edu/~anmittal/LAK19_Augmenting_Authentic_Data_Science_Environments_for_Learning_Analytics_Camera_Ready.pdf"
+                            target="_blank"
+                        >
+                            PDF
+                            <b-icon icon="file-pdf-fill"> </b-icon>
+                        </b-button>
+
+                        <b-collapse id="collapse-lak-19" class="mt-2">
+                            <p class="card-text">
+                                Unlike general learning management systems which
+                                have used fine-grained trace behaviours to
+                                understand learning processes, data science
+                                environments use discipline-specific tools such
+                                as Project Jupyter (Perez and Granger, 2015).
+                                Augmentation of these tools is necessary in
+                                order to surface learner activities in ways
+                                which might be used for adaptation (Ferguson,
+                                2012). This is analogous to augmenting
+                                problem-solving environments for mathematics
+                                (Melis and Siekmann, 2004), where
+                                domain-specific tools are necessary for
+                                understanding learning activity. In this work,
+                                we specifically tackle the augmentation of
+                                Project Jupyter. We explain the architecture of
+                                the environment along with the types of events
+                                we are able to collect and frame research
+                                questions we aim to answer with this work.
+                            </p>
+                        </b-collapse>
+                    </b-card>
+                </b-col>
+            </b-row>
         </b-container>
     </div>
 </template>
 
 <script>
-    export default {
-        name: "Publications",
-        data() {
-            return {};
-        },
-        components: {},
-        mounted: function () {},
-        created() {},
-        methods: {},
-    };
+export default {
+    name: "Publications",
+    data() {
+        return {};
+    },
+    components: {},
+    mounted: function () {},
+    created() {},
+    methods: {},
+};
 </script>

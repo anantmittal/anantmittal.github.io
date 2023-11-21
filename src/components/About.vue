@@ -9,40 +9,109 @@
                 >Prof. James Fogarty</a
             >. My research interests are designing and building interactive
             systems for real-world HCI impact and evaluating them through mixed
-            methods. I have built systems for communication and collaboration in
-            settings where multiple stakeholders have different roles.
+            methods. My current research is around building systems for
+            communication and collaboration in settings where multiple
+            stakeholders have different roles.
         </p>
         <strong>Current and Recent Projects:</strong>
 
         <ul>
             <li>
-                <b-link href="https://sites.uw.edu/scopestudy/" target="_blank"
-                    >SCOPE:</b-link
+                <strong>SCOPE:</strong> A Collaborative Care System for People
+                with Cancer to Manage their Treatment and Depression
+                <br />Advisors: James Fogarty and Gary Hsieh<br />
+
+                <b-link
+                    href="https://homes.cs.washington.edu/~anmittal/UWSCOPE_CHI_2023_Workshop.pdf"
+                    target="_blank"
                 >
-                A collaborative care system for people with cancer to manage
-                their treatment and depression. <br />Advisors: James Fogarty
-                and Gary Hsieh
+                    [CHI '23 Workshop Paper]
+                </b-link>
+
+                <b-link href="https://sites.uw.edu/scopestudy/" target="_blank">
+                    [Study Link]
+                </b-link>
             </li>
 
             <li>
-                PlayBridge: Examining Runtime Enhancement of Android Educational
-                Games to Improve Accessibility for Children with Upper Body
-                Motor Impairments. <br />Advisors: James Fogarty
+                <strong>PlayBridge:</strong> Examining Personalized AI for
+                Runtime Enhancements to Improve Accessibility of Android
+                Educational Games for Children with Upper Body Motor Impairments
+                <br />Advisor: James Fogarty
             </li>
 
             <li>
-                Jod: Examining Design and Implementation of a Videoconferencing
-                Platform for Mixed Hearing Groups <br />Advisors: James Fogarty,
-                Mohit Jain, and Pratyush Kumar
+                <strong>Jod:</strong> Examining Design and Implementation of a
+                Videoconferencing Platform for Mixed Hearing Groups
+                <br />Advisors: James Fogarty, Mohit Jain, and Pratyush Kumar<br />
+                <b-link
+                    href="https://dl.acm.org/doi/abs/10.1145/3597638.3608382"
+                    target="_blank"
+                >
+                    [ASSETS '23 Paper]
+                </b-link>
+                <b-link
+                    href="https://youtu.be/9AVCkzfcBus?si=n3WntOqB6V0ImPpO&t=860"
+                    target="_blank"
+                >
+                    [Allen School Talk]
+                </b-link>
             </li>
-
-            <!-- <li>
-                Understanding Mobile App Needs for Patients with Fibromyalgia<br />Advisors:
-                Annie T. Chen (UW) and Yan Zhang (University of Texas Austin)
-            </li> -->
         </ul>
+        <strong>Past Projects:</strong>
+        <ul>
+            <li>
+                <strong>Executive Functions + Math:</strong> Designing and
+                Prototyping Math Learning Tools for K12 Classroom Environments
+                to Engage Students' Executive Functions <br />Advisors: Yun-En
+                Liu and Zoran Popović<br />
 
-        <p>
+                <b-link
+                    href="https://engagedlearning.github.io/brainpoints_equations_training/#/problem/1/t"
+                    target="_blank"
+                >
+                    [Immediate Next Steps in Linear Equations Prototype]
+                </b-link>
+                <br />
+                <b-link
+                    href="https://ef_math.pages.cs.washington.edu/prototype_2/#/problem/1"
+                    target="_blank"
+                >
+                    [Previous Steps in Linear Equations Prototype]
+                </b-link>
+            </li>
+
+            <li>
+                <strong>Scientific Discovery through Games:</strong> Applied
+                Machine Learning and Data Science for Maximizing Scientific
+                Discovery and Engagement in STEM Education and Crowdsourcing
+                games <br />Advisor: Zoran Popović<br />
+            </li>
+
+            <li>
+                <strong
+                    >Augmenting Authentic Data Science Environments for Learning
+                    Analytic:</strong
+                >
+                Built Extensions and Infrastructure for Project Jupyter to
+                Capture Learning Behavior of Data Science Students and
+                Crowdsource Data Science Questions and Datasets on Coursera
+                <br />Advisor: Christopher Brooks<br />
+                <b-link
+                    href="https://homes.cs.washington.edu/~anmittal/LAK19_Augmenting_Authentic_Data_Science_Environments_for_Learning_Analytics_Camera_Ready.pdf"
+                    target="_blank"
+                >
+                    [LAK '19 Poster Paper]
+                </b-link>
+                <b-link
+                    href="https://homes.cs.washington.edu/~anmittal/MIDAS_Mentor_Academy_Poster.pdf"
+                    target="_blank"
+                >
+                    [Mentor Academy MIDAS Poster]
+                </b-link>
+            </li>
+        </ul>
+        <!-- <p>
             Previously at UW, I was advised by Prof. Zoran Popović as part of
             the
             <strong>
@@ -79,8 +148,8 @@
                 ></strong
             >
             players.
-        </p>
-        <p>
+        </p> -->
+        <!-- <p>
             As a graduate student at the University of Michigan, School of
             Information I worked with Prof. Christopher Brooks at the
             <strong>
@@ -88,18 +157,30 @@
                     Educational Technology Collective lab.
                 </a>
             </strong>
-            I built the first extensions for Project Jupyter to capture learning
-            behavior of data science students on Coursera. I engineered an
-            entire infrastructure around Jupyter notebooks to crowdsource data
-            science questions and datasets.
-        </p>
+            I built extensions for Project Jupyter to capture learning behavior
+            of data science students on Coursera. I engineered an entire
+            infrastructure around Jupyter notebooks to crowdsource data science
+            questions and datasets.
+        </p> -->
         <p>
             I have been fortunate to work in education, health, governance, and
             public policy through affiliations with the following organizations:
         </p>
         <ul>
             <li>
-                AdmitHub, now
+                <a href="https://www.enlearn.org/" target="_blank">Enlearn</a>
+            </li>
+            <li>
+                <a href="https://centerforgamescience.org/" target="_blank"
+                    >Center for Game Science</a
+                >
+            </li>
+            <li>
+                <a href="https://edtech.labs.si.umich.edu/" target="_blank">
+                    Educational Technology Collective Lab
+                </a>
+            </li>
+            <li>
                 <a href="https://www.mainstay.com/" target="_blank">Mainstay</a>
             </li>
             <li>
@@ -123,12 +204,16 @@
 </template>
 
 <script>
-    export default {
-        name: "About",
-    };
+export default {
+    name: "About",
+};
 </script>
 <style scoped>
-    a {
-        color: #7952b3;
-    }
+a {
+    color: #7952b3;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
 </style>

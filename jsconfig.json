@@ -5,6 +5,9 @@
             "components/*": [
                 "src/components/*"
             ]
-        }
+        },
+    },
+    "vueCompilerOptions": {
+        "target": 2.7
     }
 }
