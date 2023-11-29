@@ -14,7 +14,7 @@
 				collaboration in settings where multiple stakeholders have different roles.
 			</p>
 		</span>
-		<strong>Current and Recent Projects:</strong>
+		Recent Projects:
 
 		<ul>
 			<li>
@@ -57,7 +57,7 @@
 				</p>
 			</li>
 		</ul>
-		<strong>Past Projects:</strong>
+		Past Projects:
 		<ul>
 			<li>
 				<strong>Executive Functions + Math:</strong> Designing and Prototyping Math Learning Tools for K12
