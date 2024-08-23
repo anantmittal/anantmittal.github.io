@@ -9,9 +9,9 @@
 			</p>
 			<p>
 				My research interests include
-				<strong>designing and building interactive systems for real-world HCI impact</strong> and evaluating
-				them through mixed methods. Currently, I am focused on building systems for communication and
-				collaboration in settings where multiple stakeholders have different roles.
+				<strong>designing, building, and evaluating Human-AI Systems with mixed methods</strong>. Currently, I
+				am focused on building systems for communication and collaboration in settings where multiple
+				stakeholders have different roles.
 			</p>
 		</span>
 		Recent Projects:

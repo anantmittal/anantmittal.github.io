@@ -5,7 +5,7 @@
 				<b-col>
 					<b-card
 						title="SCOPE: Examining Technology-Enhanced Collaborative Care Management of Depression in the Cancer Setting"
-						sub-title="Manuscript in Submission">
+						sub-title="Manuscript in Submission to ACM Conference on Computer-Supported Cooperative Work and Social Computing. 2025.">
 						<b-card-text>
 							<strong>Anant Mittal</strong>, Tae Jones, Jina Suh, Ravi Karkar, Spencer Williams, Yihao
 							Zheng, Lydia M Andris, Ty W Lostutter, Amy M Bauer, Jesse R Fann, James Fogarty, and Gary
@@ -25,26 +25,25 @@
 
 						<b-collapse id="collapse-cscw-24" class="mt-2">
 							<p class="card-text">
-								Depression is one of the most common challenges that patients with cancer face during
-								and after treatment, and many patients with cancer and depression do not receive
-								adequate psychosocial treatment. Although prior research has found collaborative care
-								management to be effective for patients with cancer and depression, additional work has
-								highlighted communication and collaboration challenges between patients and providers in
-								navigating the parallel cancer care and psychosocial care journeys of these patients. We
-								designed and developed SCOPE (Supporting Collaborative Care to Optimize Psychosocial
-								Engagement), a platform supporting technology-enhanced collaborative care management for
-								patients with cancer and depression. SCOPE combines a patient-facing mobile app with a
-								provider-facing registry, with key features including support for patient assessments,
-								for behavioral activation, and for directly integrating patient-generated data into the
-								provider registry. We examined how SCOPE supports collaborative care through real-world
-								clinical deployment in 6 cancer clinics and through 44 interviews with patients and
-								providers. We found that (1) SCOPE improved collaboration by making patients feel
-								connected to their care team, (2) patients needed support for taking action, for
-								self-reflection, and for sensemaking, and they sought recognition and emotional support
-								with their generated health data, (3) SCOPE improved provider perception of care and of
-								care team collaboration. We conclude with design opportunities and implementation
-								challenges for future technology-enhanced collaborative care systems in clinical
-								contexts.
+								Collaborative care management is an evidence-based approach to integrated psychosocial
+								care for patients with comorbid cancer and depression. Prior work highlights challenges
+								in patient-provider collaboration in navigating parallel cancer care and psychosocial
+								care journeys of these patients. We design and deploy SCOPE, a platform for
+								technology-enhanced collaborative care combining a patient-facing mobile app with a
+								provider-facing registry. We examine SCOPE through a total of 45 interviews with
+								patients and providers conducted in SCOPE's approximately 15 months of design and
+								development and SCOPE's approximately 24+ months of deployment for actual care in 6
+								cancer clinics. We find that: (1) SCOPE supported patient engagement in its underlying
+								collaborative care and behavioral activation interventions, (2) patient-generated data
+								in SCOPE improved patient-provider collaboration between and within in-person sessions,
+								(3) SCOPE supported providers in delivering care and improved care team collaboration,
+								(4) experience with SCOPE created evolving expectations for collaboration, and (5)
+								SCOPE's deployment in actual care surfaced important implementation barriers. We discuss
+								implications of our findings in terms of conceptualizing engagement with behavioral
+								health interventions, negotiating patient data sharing and provider responsiveness,
+								aligning technology-supported interventions to patient needs, supporting personalized
+								self-tracking goals in evidence-based interventions, and exploring the role of digital
+								health navigators in technology-enhanced care.
 							</p>
 						</b-collapse>
 					</b-card>
@@ -54,7 +53,7 @@
 				<b-col>
 					<b-card
 						title="MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition"
-						sub-title="CHI '24">
+						sub-title="ACM Conference on Human Factors in Computing Systems. 2024">
 						<b-card-text>
 							Yasaman S Sefidgar, Carla L Castillo, Shaan Chopra, Liwei Jiang, Tae Jones,
 							<strong>Anant Mittal</strong>, Hyeyoung Ryu, Jessica Schroeder, Allison Cole, Natalia
@@ -145,7 +144,7 @@
 						title="Jod: Examining Design and Implementation of a
                             Videoconferencing Platform for Mixed Hearing
                             Groups"
-						sub-title="ASSETS ’23">
+						sub-title="ACM Conference on Computers and Accessibility. 2023">
 						<b-card-text>
 							<strong>Anant Mittal</strong>, Meghna Gupta, Roshni Poddar, Tarini Naik, SeethaLakshmi
 							Kuppuraj, James Fogarty, Pratyush Kumar, and Mohit Jain.
@@ -230,7 +229,7 @@
 				<b-col>
 					<b-card
 						title="How Data Scientists Use Computational Notebooks for Real-Time Collaboration"
-						sub-title="CSCW '19">
+						sub-title="ACM Conference on Computer-Supported Cooperative Work and Social Computing. 2019">
 						<b-card-text>
 							April Yi Wang, <strong>Anant Mittal</strong>, Christopher Brooks, and Steve Oney.
 						</b-card-text>
@@ -276,7 +275,7 @@
 				<b-col>
 					<b-card
 						title="Augmenting Authentic Data Science Environments for Learning Analytics"
-						sub-title="LAK '19">
+						sub-title="International Conference on Learning Analytics & Knowledge. 2019">
 						<b-card-text> <strong>Anant Mittal</strong>, Christopher Brooks </b-card-text>
 						<b-button v-b-toggle.collapse-lak-19 style="background-color: #7952b3" class="card-link">
 							Abstract

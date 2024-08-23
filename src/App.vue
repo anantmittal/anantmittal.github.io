@@ -13,6 +13,9 @@
 					<b-nav-item href="https://github.com/anantmittal/" target="_blank">
 						<strong style="color: white"> GitHub </strong>
 					</b-nav-item>
+					<b-nav-item href="https://homes.cs.washington.edu/~anmittal/Resume.pdf" target="_blank">
+						<strong style="color: white"> Resume </strong>
+					</b-nav-item>
 					<b-nav-item href="https://homes.cs.washington.edu/~anmittal/CV.pdf" target="_blank">
 						<strong style="color: white"> CV </strong>
 					</b-nav-item>
