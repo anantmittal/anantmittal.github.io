@@ -12,30 +12,27 @@
 						img-top
 						tag="article"
 						class="mb-2">
-						<!--b-card-text>
-							Some quick example text to build on the card title
-							and make up the bulk of the card's content.
-						</!--b-card-text-->
+						<b-card-text> anmittal [at] cs [dot] washington [dot] edu </b-card-text>
 
 						<b-card-body style="font-size: 30px">
-							<a href="mailto:anmittal@cs.washington.edu" class="card-link">
+							<!-- <a href="mailto:anmittal@cs.washington.edu" class="card-link">
 								<b-icon icon="envelope-fill" style="color: #7952b3"> </b-icon
-							></a>
+							></a> -->
 							<a href="https://github.com/anantmittal" class="card-link" target="_blank">
 								<b-icon icon="github" style="color: #7952b3"> </b-icon
 							></a>
 							<a href="https://www.linkedin.com/in/anantmittal/" class="card-link" target="_blank">
 								<b-icon icon="linkedin" style="color: #7952b3"> </b-icon
 							></a>
-							<a href="https://orcid.org/0009-0000-9085-8446" class="card-link" target="_blank">
+							<b-link href="https://orcid.org/0009-0000-9085-8446" class="card-link" target="_blank">
 								<span style="color: #7952b3">ORCiD</span>
-							</a>
-							<a
+							</b-link>
+							<b-link
 								href="https://homes.cs.washington.edu/~anmittal/Resume.pdf"
 								class="card-link"
 								target="_blank">
 								<span style="color: #7952b3">Resume</span>
-							</a>
+							</b-link>
 						</b-card-body>
 					</b-card>
 				</b-col>
