@@ -27,6 +27,9 @@
 							<a href="https://www.linkedin.com/in/anantmittal/" class="card-link" target="_blank">
 								<b-icon icon="linkedin" style="color: #7952b3"> </b-icon
 							></a>
+							<a href="https://orcid.org/0009-0000-9085-8446" class="card-link" target="_blank">
+								<span style="color: #7952b3">ORCiD</span>
+							</a>
 							<a
 								href="https://homes.cs.washington.edu/~anmittal/Resume.pdf"
 								class="card-link"
