@@ -6,7 +6,7 @@
 					<b-card
 						border-variant="light"
 						title="Anant Mittal"
-						sub-title="Ph.D. Student"
+						sub-title="Ph.D. Candidate"
 						:img-src="require('@/assets/Anant.jpeg')"
 						img-alt="Profile picture of Anant Mittal"
 						img-top

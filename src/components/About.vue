@@ -2,16 +2,16 @@
 	<div>
 		<span id="intro">
 			<p>
-				I am a Ph.D. student at the Paul G. Allen School of
+				I am a Ph.D. Candidate at the Paul G. Allen School of
 				<a href="https://www.cs.washington.edu/" target="_blank">Computer Science & Engineering</a>, University
 				of Washington (UW), advised by
 				<a href="https://homes.cs.washington.edu/~jfogarty/" target="_blank">Prof. James Fogarty</a>.
 			</p>
 			<p>
 				My research interests include
-				<strong>designing, building, and evaluating Human-AI Systems with mixed methods</strong>. Currently, I
-				am focused on building systems for communication and collaboration in settings where multiple
-				stakeholders have different roles.
+				<strong>designing, building, and evaluating Human-AI Systems with mixed methods</strong>. My
+				dissertation work focuses on designing and building systems for communication and collaboration in
+				complex settings like Accessibility and Health.
 			</p>
 		</span>
 		Recent Projects:

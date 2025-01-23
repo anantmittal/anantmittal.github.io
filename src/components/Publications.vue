@@ -5,25 +5,24 @@
 				<b-col>
 					<b-card
 						title="SCOPE: Examining Technology-Enhanced Collaborative Care Management of Depression in the Cancer Setting"
-						sub-title="Manuscript in Submission to ACM Conference on Computer-Supported Cooperative Work and Social Computing. 2025.">
+						sub-title="ACM Conference on Computer-Supported Cooperative Work and Social Computing. 2025.">
 						<b-card-text>
 							<strong>Anant Mittal</strong>, Tae Jones, Jina Suh, Ravi Karkar, Spencer Williams, Yihao
 							Zheng, Lydia M Andris, Ty W Lostutter, Amy M Bauer, Jesse R Fann, James Fogarty, and Gary
 							Hsieh.
 						</b-card-text>
-						<b-button v-b-toggle.collapse-cscw-24 style="background-color: #7952b3" class="card-link">
+						<b-button v-b-toggle.collapse-cscw-25 style="background-color: #7952b3" class="card-link">
 							Abstract
 						</b-button>
-						<!-- <b-button
+						<b-button
 							style="background-color: #7952b3"
 							class="card-link"
-							href="https://doi.org/10.1145/3613904.3642075"
+							href="https://doi.org/10.1145/3711060"
 							target="_blank">
 							DOI
 							<b-icon icon="link"> </b-icon>
-						</b-button> -->
-
-						<b-collapse id="collapse-cscw-24" class="mt-2">
+						</b-button>
+						<b-collapse id="collapse-cscw-25" class="mt-2">
 							<p class="card-text">
 								Collaborative care management is an evidence-based approach to integrated psychosocial
 								care for patients with comorbid cancer and depression. Prior work highlights challenges
@@ -31,19 +30,19 @@
 								care journeys of these patients. We design and deploy SCOPE, a platform for
 								technology-enhanced collaborative care combining a patient-facing mobile app with a
 								provider-facing registry. We examine SCOPE through a total of 45 interviews with
-								patients and providers conducted in SCOPE's approximately 15 months of design and
-								development and SCOPE's approximately 24+ months of deployment for actual care in 6
-								cancer clinics. We find that: (1) SCOPE supported patient engagement in its underlying
-								collaborative care and behavioral activation interventions, (2) patient-generated data
-								in SCOPE improved patient-provider collaboration between and within in-person sessions,
-								(3) SCOPE supported providers in delivering care and improved care team collaboration,
-								(4) experience with SCOPE created evolving expectations for collaboration, and (5)
-								SCOPE's deployment in actual care surfaced important implementation barriers. We discuss
-								implications of our findings in terms of conceptualizing engagement with behavioral
-								health interventions, negotiating patient data sharing and provider responsiveness,
-								aligning technology-supported interventions to patient needs, supporting personalized
-								self-tracking goals in evidence-based interventions, and exploring the role of digital
-								health navigators in technology-enhanced care.
+								patients and providers conducted in SCOPE's 15 months of design and development and 24
+								months of SCOPE's deployment for actual care in 6 cancer clinics. We find that: (1)
+								SCOPE supported patient engagement in its underlying collaborative care and behavioral
+								activation interventions, (2) patient-generated data in SCOPE improved patient-provider
+								collaboration between and within in-person sessions, (3) SCOPE supported providers in
+								delivering care and improved care team collaboration, (4) experience with SCOPE created
+								evolving expectations for collaboration around data, and (5) SCOPE's deployment in
+								actual care surfaced important implementation barriers. We discuss the implications of
+								our findings in terms of designing for engagement with behavioral health interventions,
+								negotiating patient data sharing and provider responsiveness, supporting personalized
+								self-tracking goals in evidence-based interventions, exploring the role of digital
+								health navigators in technology-enhanced care, and the need for flexibility in aligning
+								technology-supported interventions to patient needs.
 							</p>
 						</b-collapse>
 					</b-card>
