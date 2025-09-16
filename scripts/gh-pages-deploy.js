@@ -5,7 +5,7 @@ const fs = require("fs");
   try {
     console.log("Git add, commit, and push...");
     await execa("git", ["add", "."]);
-    await execa("git", ["commit", "-m", "'update and deploy'"]);
+    await execa("git", ["commit", "-m", "update and deploy"]);
     await execa("git", ["push", "origin", "main"]);
     await execa("git", ["checkout", "--orphan", "gh-pages"]);
     console.log("Building...");
