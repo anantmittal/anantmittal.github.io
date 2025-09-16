@@ -39,7 +39,12 @@
       >
     </div>
 
-    <b-collapse visible id="current-projects" class="mt-2">
+    <b-collapse
+      visible
+      id="current-projects"
+      class="mt-2"
+      accordion="my-accordion"
+    >
       <ul>
         <li>
           <strong>Protein Design Pipelines:</strong> <br />Collaborators:
@@ -97,7 +102,11 @@
       </ul>
     </b-collapse>
 
-    <b-collapse id="dissertation-projects" class="mt-2">
+    <b-collapse
+      id="dissertation-projects"
+      class="mt-2"
+      accordion="my-accordion"
+    >
       <ul>
         <li>
           <strong>SCOPE:</strong> A Collaborative Care System for People with
@@ -160,7 +169,7 @@
       </ul>
     </b-collapse>
 
-    <b-collapse id="past-projects" class="mt-2">
+    <b-collapse id="past-projects" class="mt-2" accordion="my-accordion">
       <ul>
         <li>
           <strong>MigraineTracker:</strong> Examining Patient Experiences with
