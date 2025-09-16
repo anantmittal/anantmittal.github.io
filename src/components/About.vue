@@ -21,10 +21,25 @@
         Accessibility and Health.
       </p>
     </span>
-    <b-button v-b-toggle.dissertation-projects variant="outline-secondary"
-      >Dissertation Projects</b-button
-    >
-    <b-collapse id="dissertation-projects" class="mt-2">
+    <div class="mb-3">
+      <b-button v-b-toggle.current-projects class="mr-2"
+        >Current Projects</b-button
+      >
+      <b-button
+        v-b-toggle.dissertation-projects
+        variant="outline-secondary"
+        class="mx-2"
+        >Dissertation Projects</b-button
+      >
+      <b-button
+        v-b-toggle.past-projects
+        variant="outline-secondary"
+        class="mx-2"
+        >Past Projects</b-button
+      >
+    </div>
+
+    <b-collapse id="current-projects" class="mt-2">
       <ul>
         <li>
           <strong>SCOPE:</strong> A Collaborative Care System for People with
@@ -95,9 +110,70 @@
         </li>
       </ul>
     </b-collapse>
-    <b-button v-b-toggle.past-projects variant="outline-secondary"
-      >Past Projects</b-button
-    >
+
+    <b-collapse id="dissertation-projects" class="mt-2">
+      <ul>
+        <li>
+          <strong>SCOPE:</strong> A Collaborative Care System for People with
+          Cancer to Manage their Treatment and Depression <br />Advisors:
+          <b-link
+            href="https://homes.cs.washington.edu/~jfogarty/"
+            target="_blank"
+            >James Fogarty</b-link
+          >
+          and
+          <b-link href="https://faculty.washington.edu/garyhs/" target="_blank"
+            >Gary Hsieh</b-link
+          ><br />
+          <p id="project-description">
+            Designed, built, and deployed a web-based patient-provider system
+            for people with cancer to manage their treatment and depression.
+            Capturing feedback through a randomized controlled trial with over
+            100 participants
+          </p>
+          <b-link href="https://dl.acm.org/doi/10.1145/3711060" target="_blank">
+            [CSCW '25 Paper]
+          </b-link>
+          <b-link href="https://sites.uw.edu/scopestudy/" target="_blank">
+            [Study Link]
+          </b-link>
+          <b-link href="/assets/UWSCOPE_CHI_2023_Workshop.pdf" target="_blank">
+            [CHI '23 Workshop Paper]
+          </b-link>
+          <b-link href="/assets/UWSCOPE_APOS_2023_Poster.pdf" target="_blank">
+            [APOS '23 Poster]
+          </b-link>
+        </li>
+
+        <li>
+          <strong>Jod:</strong> Examining Design and Implementation of a
+          Videoconferencing Platform for Mixed Hearing Groups <br />Advisors:
+          <b-link
+            href="https://homes.cs.washington.edu/~jfogarty/"
+            target="_blank"
+            >James Fogarty</b-link
+          >, Mohit Jain, and Pratyush Kumar<br />
+          <p id="project-description">
+            Designed and built a new videoconferencing platform for mixed
+            hearing groups using Azure Communication Services, and ran user
+            studies with 34 participants
+          </p>
+          <b-link
+            href="https://dl.acm.org/doi/abs/10.1145/3597638.3608382"
+            target="_blank"
+          >
+            [ASSETS '23 Paper]
+          </b-link>
+          <b-link
+            href="https://youtu.be/9AVCkzfcBus?si=n3WntOqB6V0ImPpO&t=860"
+            target="_blank"
+          >
+            [Allen School Talk]
+          </b-link>
+        </li>
+      </ul>
+    </b-collapse>
+
     <b-collapse id="past-projects" class="mt-2">
       <ul>
         <li>
@@ -173,7 +249,7 @@
             >Zoran Popović</b-link
           ><br />
 
-          <b-link
+          <!-- <b-link
             href="https://engagedlearning.github.io/brainpoints_equations_training/#/problem/1/t"
             target="_blank"
           >
@@ -185,7 +261,7 @@
             target="_blank"
           >
             [Previous Steps in Linear Equations Prototype]
-          </b-link>
+          </b-link> -->
         </li>
 
         <li>
@@ -213,13 +289,13 @@
             [CSCW '19 Paper]
           </b-link>
           <b-link
-            href="https://homes.cs.washington.edu/~anmittal/LAK19_Augmenting_Authentic_Data_Science_Environments_for_Learning_Analytics_Camera_Ready.pdf"
+            href="/assets/LAK19_Augmenting_Authentic_Data_Science_Environments_for_Learning_Analytics_Camera_Ready.pdf"
             target="_blank"
           >
             [LAK '19 Poster Paper]
           </b-link>
           <b-link
-            href="https://homes.cs.washington.edu/~anmittal/MIDAS_Mentor_Academy_Poster.pdf"
+            href="/assets/MIDAS_Mentor_Academy_Poster.pdf"
             target="_blank"
           >
             [Mentor Academy MIDAS Poster]
