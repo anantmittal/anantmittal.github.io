@@ -39,73 +39,59 @@
       >
     </div>
 
-    <b-collapse id="current-projects" class="mt-2">
+    <b-collapse visible id="current-projects" class="mt-2">
       <ul>
         <li>
-          <strong>SCOPE:</strong> A Collaborative Care System for People with
-          Cancer to Manage their Treatment and Depression <br />Advisors:
-          <b-link
-            href="https://homes.cs.washington.edu/~jfogarty/"
-            target="_blank"
-            >James Fogarty</b-link
-          >
-          and
-          <b-link href="https://faculty.washington.edu/garyhs/" target="_blank"
-            >Gary Hsieh</b-link
+          <strong>Protein Design Pipelines:</strong> <br />Collaborators:
+          <b-link href="https://www.bakerlab.org/" target="_blank"
+            >Baker Lab, Institute for Protein Design, University of
+            Washington</b-link
           ><br />
           <p id="project-description">
-            Designed, built, and deployed a web-based patient-provider system
-            for people with cancer to manage their treatment and depression.
-            Capturing feedback through a randomized controlled trial with over
-            100 participants
+            Designing and building interfaces to optimize protein design
+            workflows that integrate state-of-the-art design platforms (ESM3,
+            RFdiffusion, MPNN, Evo 2, Rosetta) with advanced structure
+            prediction and filtering techniques (AlphaFold2, AlphaFold3, PLACER,
+            Rosetta).
           </p>
           <b-link
-            href="https://homes.cs.washington.edu/~anmittal/CSCW2025_SCOPE_Camera_Ready.pdf"
+            href="https://github.com/baker-laboratory/pipelines"
             target="_blank"
           >
-            [CSCW '25 Paper]
-          </b-link>
-          <b-link href="https://sites.uw.edu/scopestudy/" target="_blank">
-            [Study Link]
-          </b-link>
-          <b-link
-            href="https://homes.cs.washington.edu/~anmittal/UWSCOPE_CHI_2023_Workshop.pdf"
-            target="_blank"
-          >
-            [CHI '23 Workshop Paper]
-          </b-link>
-          <b-link
-            href="https://homes.cs.washington.edu/~anmittal/UWSCOPE_APOS_2023_Poster.pdf"
-            target="_blank"
-          >
-            [APOS '23 Poster]
+            [GitHub (currently private / reach out if you want access)]
           </b-link>
         </li>
-
         <li>
-          <strong>Jod:</strong> Examining Design and Implementation of a
-          Videoconferencing Platform for Mixed Hearing Groups <br />Advisors:
+          <strong
+            >Homelessness Research Using Respondent-Driven Sampling:</strong
+          >
+          <br />Collaborators:
           <b-link
-            href="https://homes.cs.washington.edu/~jfogarty/"
+            href="https://soc.washington.edu/people/zack-almquist"
             target="_blank"
-            >James Fogarty</b-link
-          >, Mohit Jain, and Pratyush Kumar<br />
+            >Zack Almquist</b-link
+          >,
+          <b-link href="https://ihsankahveci.com/" target="_blank"
+            >İhsan Kahveci</b-link
+          >, and
+          <b-link
+            href="https://escience.washington.edu/member/june-yang/"
+            target="_blank"
+            >June Yang</b-link
+          >
           <p id="project-description">
-            Designed and built a new videoconferencing platform for mixed
-            hearing groups using Azure Communication Services, and ran user
-            studies with 34 participants
+            Designing and building a platform in collaboration with the
+            University of Washington and King County Regional Homelessness
+            Authority (KCRHA), that supports volunteers and administrators to
+            collect accurate survey data, track referrals, and generate
+            population estimates more effectively than traditional Point-In-Time
+            (PIT) counts.
           </p>
           <b-link
-            href="https://dl.acm.org/doi/abs/10.1145/3597638.3608382"
+            href="https://github.com/uw-ssec/respondent-driven-sampling"
             target="_blank"
           >
-            [ASSETS '23 Paper]
-          </b-link>
-          <b-link
-            href="https://youtu.be/9AVCkzfcBus?si=n3WntOqB6V0ImPpO&t=860"
-            target="_blank"
-          >
-            [Allen School Talk]
+            [GitHub]
           </b-link>
         </li>
       </ul>

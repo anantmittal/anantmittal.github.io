@@ -14,24 +14,24 @@
           >
             <b-card-text> anmittal [at] uw [dot] edu </b-card-text>
 
-            <b-card-body style="font-size: 30px">
+            <b-card-body style="font-size: 20px">
               <!-- <a href="mailto:anmittal@cs.washington.edu" class="card-link">
 								<b-icon icon="envelope-fill" style="color: #7952b3"> </b-icon
 							></a> -->
-              <a
+              <b-link
                 href="https://github.com/anantmittal"
                 class="card-link"
                 target="_blank"
               >
                 <b-icon icon="github" style="color: #7952b3"> </b-icon
-              ></a>
-              <a
+              ></b-link>
+              <b-link
                 href="https://www.linkedin.com/in/anantmittal/"
                 class="card-link"
                 target="_blank"
               >
                 <b-icon icon="linkedin" style="color: #7952b3"> </b-icon
-              ></a>
+              ></b-link>
               <b-link
                 href="https://orcid.org/0009-0000-9085-8446"
                 class="card-link"
@@ -39,12 +39,15 @@
               >
                 <span style="color: #7952b3">ORCiD</span>
               </b-link>
-              <b-link
+              <!-- <b-link
                 href="/assets/Resume.pdf"
                 class="card-link"
                 target="_blank"
               >
                 <span style="color: #7952b3">Resume</span>
+              </b-link> -->
+              <b-link href="/assets/CV.pdf" class="card-link" target="_blank">
+                <span style="color: #7952b3">CV</span>
               </b-link>
             </b-card-body>
           </b-card>
